@@ -1,14 +1,14 @@
 {
-    "name": "rrpadilla/slim3-api-skeleton",
+    "name": "gssrinivas59/slim3-api-skeleton",
     "description": "Slim 3 API Skeleton with content negotiation and performance in mind.",
     "type": "project",
     "keywords": ["Slim-framework", "API", "Skeleton"],
-    "homepage": "https://github.com/rrpadilla/slim3-api-skeleton",
+    "homepage": "https://github.com/gssrinivas59/slim3-api-skeleton",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rodolfo Ruiz",
-            "email": "rrpadilla@gmail.com"
+            "name": "G Sudhir Srinivas",
+            "email": "gssrinivas05@gmail.com"
         }
     ],
     "require": {
